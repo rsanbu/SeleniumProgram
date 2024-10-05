@@ -1,0 +1,32 @@
+java.util.Scanner
+
+Scanner o=new Scanner(System.in);
+
+int a=o.nextInt();
+int b=o.nextInt();
+String a=o.nextLine();
+
+
+
+System.out.pritln(a+b);
+
+
+string
+.equals
+.equalsIgnoreCase
+.toUpper
+.toLower
+charAt
+lenght
+Concat
+Trim
+contains-----return true or false
+startsWith
+endsWith
+substring(0,0)
+substring(0)
+indexOf
+lastIndexOf
+replace
+isEmpty----true or false
+
